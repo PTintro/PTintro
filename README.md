@@ -5,7 +5,7 @@
 <p align="left">😄 Pronouns: He/His<br>🔭 I’m currently building Go Travel.<br>🌱 I’m currently learning more about Java.<br>👯 I’m looking to collaborate on Youtube.<br>💬 Ask me about Web Development or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 10 hours listening to songs every day.</p>
 
 ###
-
+<hr>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -49,7 +49,7 @@
 </div>
 
 ###
-
+<hr>
 <h3 align="left">Socials</h3>
 
 ###
